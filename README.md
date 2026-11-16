@@ -66,10 +66,10 @@ assets/      icons
 ## Templates, starter code, and third-party assets
 
 - No templates or starter code were used.
-- **AI (Claude)** was used for assisting to most math related functions.
+- **AI (Claude)** was used for assisting to most math related functions and in the making of this `README.md`.
 - **Chart.js** 4.4.1, loaded from the jsDelivr CDN (MIT License).
 - **Google Fonts:** Fraunces, Work Sans, JetBrains Mono (SIL Open Font License).
-- **Icons** `assets/Time.png`, `assets/Pig.png`: _(add icon source and license)_
+- **Icons** `assets/Time.png`, `assets/Pig.png` (Source from Google Images)
 
 ## Additional notes and limitations
 
