@@ -7,7 +7,7 @@ A website for managing your class schedule and daily pocket money together.
 **Team name:** FXFlow
 
 Muhammad Athallah Aziz, Coding in JavaScript & HTML<br>
-Valent, Coding in HTML<br>
+Axel Basith Valentino, Coding in HTML<br>
 Faraz Satria Nugraha & Aaron, Creative Design<br>
 
 
