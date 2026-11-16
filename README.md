@@ -8,7 +8,7 @@ A website for managing your class schedule and daily pocket money together.
 
 Muhammad Athallah Aziz, Coding in JavaScript & HTML<br>
 Valent, Coding in HTML<br>
-Faraz & Aaron, Creative Design<br>
+Faraz Satria Nugraha & Aaron, Creative Design<br>
 
 
 ## Description
